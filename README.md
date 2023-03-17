@@ -10,7 +10,7 @@ Authorized to work in the U.S. without restriction.
 
 ## My Favorite Projects
 
-### [98ish | Desktop Environment Simulation](https://github.com/Simul8-OS/98ish)
+### [EthereumBonds](https://github.com/Simul8-OS/98ish](https://github.com/daniel-lobster/EthereumBonds)
 
 ![98ish Demo](demo-filesystem.gif)
 
