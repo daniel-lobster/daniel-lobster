@@ -16,8 +16,6 @@ Authorized to work in the U.S. without restriction.
 
 ### [Crypto Montecarlo](https://github.com/daniel-lobster/crypto_monte_carlo_simulation)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-lobster&layout=compact)]
-
 <br>
 <a href="https://github.com/daniel-lobster">
    <img src="https://komarev.com/ghpvc/?username=daniel-lobster">
