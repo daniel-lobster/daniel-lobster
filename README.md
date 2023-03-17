@@ -16,6 +16,10 @@ Authorized to work in the U.S. without restriction.
 
 ### [Crypto Montecarlo](https://github.com/daniel-lobster/crypto_monte_carlo_simulation)
 
+<a href="https://github.com/daniel-lobster">
+   <img src="https://komarev.com/ghpvc/?username=daniel-lobster">
+</a>
+
 <!--
 **daniel-lobster/daniel-lobster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
