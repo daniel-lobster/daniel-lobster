@@ -4,11 +4,19 @@ After 6 years of working in finance in New York City and being on the receiving 
 
 I took two bootcamps: FinTech at Columbia University and Software Development at Coding Dojo. Together they provided me with over 1,000 hours of hands-on learning. Since finishing the bootcamp at Coding Dojo I have been working on my own software. I am proficient in the following languages: Python, Java, JavaScript and Solidity. Libraries and frameworks: React, Node.js, Express, Flask, Socket.io, Hardhat, Ethers and Pandas. Software: Github, Ganache, Remix, MySQL, Bloomberg, STATA, Excel, Haver.
 
-![My Skills](https://skillicons.dev/icons?i=js,python,java,django,spring,nodejs,mysql,flask,mongodb)
-
 If you are aware of interesting opportunities in the Southern California area or if you just want to share resources don’t hesitate to reach out. Thank you!!
 
 Authorized to work in the U.S. without restriction.
+
+## My Favorite Projects
+
+### [98ish | Desktop Environment Simulation](https://github.com/Simul8-OS/98ish)
+
+![98ish Demo](demo-filesystem.gif)
+
+### [Team Manager (MERN)](https://github.com/cmderobertis/team-manager-mern)
+
+![Team Manager Demo](team-demo.gif)
 
 <!--
 **daniel-lobster/daniel-lobster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
