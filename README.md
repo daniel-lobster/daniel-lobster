@@ -1,4 +1,7 @@
 <h2 align="center">Hi there, thanks for stopping by! 😊  Here's a little about me:</h2>
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65a0f2&width=435&lines=Hi%2C+I'm+Nisrine.)](https://git.io/typing-svg)
+
+
 
 After 6 years of working in finance in New York City and being on the receiving end of data and software I decided to take the plunge and make a career change into software development. My objective is to build intuitive and efficient software that helps the user gain insight from large datasets.
 
