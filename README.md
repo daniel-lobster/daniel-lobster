@@ -10,9 +10,7 @@ Authorized to work in the U.S. without restriction.
 
 ## My Favorite Projects
 
-### [EthereumBonds](https://github.com/Simul8-OS/98ish](https://github.com/daniel-lobster/EthereumBonds)
-
-![98ish Demo](demo-filesystem.gif)
+### [EthereumBonds](https://github.com/daniel-lobster/EthereumBonds)
 
 ### [Team Manager (MERN)](https://github.com/cmderobertis/team-manager-mern)
 
