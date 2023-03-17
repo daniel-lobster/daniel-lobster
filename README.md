@@ -12,9 +12,9 @@ Authorized to work in the U.S. without restriction.
 
 ### [EthereumBonds](https://github.com/daniel-lobster/EthereumBonds)
 
-### [Team Manager (MERN)](https://github.com/cmderobertis/team-manager-mern)
+### [Tourist Prophet](https://github.com/daniel-lobster/tourist_prophet)
 
-![Team Manager Demo](team-demo.gif)
+### [Crypto Montecarlo](https://github.com/daniel-lobster/crypto_monte_carlo_simulation)
 
 <!--
 **daniel-lobster/daniel-lobster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
