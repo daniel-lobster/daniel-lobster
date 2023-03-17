@@ -18,6 +18,9 @@ Authorized to work in the U.S. without restriction.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-lobster)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-lobster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <br>
 <a href="https://github.com/daniel-lobster">
    <img src="https://komarev.com/ghpvc/?username=daniel-lobster">
