@@ -6,9 +6,9 @@ After 6 years of working in finance in New York City and being on the receiving 
 
 I took two bootcamps: FinTech at Columbia University and Software Development at Coding Dojo. Together they provided me with over 1,000 hours of hands-on learning. Since finishing the bootcamp at Coding Dojo I have been working on my own software. 
 
-Languages: CSS, HTML, Java, JavaScript, Python, Solidity, SQL. <br>
-Libraries and Frameworks: Express, Flask, Node.js, pandas, React, scikit-learn, Socket.io, TensorFlow. <br>
-Software: Bloomberg, Excel, GitHub, Haver, MySQL, Remix, STATA.<br>
+**Languages:** CSS, HTML, Java, JavaScript, Python, Solidity, SQL. <br>
+**Libraries and Frameworks:** Express, Flask, Node.js, pandas, React, scikit-learn, Socket.io, TensorFlow. <br>
+**Software:** Bloomberg, Excel, GitHub, Haver, MySQL, Remix, STATA.<br>
 
 If you are aware of interesting opportunities in the Southern California area or if you just want to share resources don’t hesitate to reach out. Thank you!!
 
