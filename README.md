@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&width=535&lines=My+developer+name+is+Daniel+Lobster)](https://git.io/typing-svg)
 
-After 6 years of working in finance in New York City and being on the receiving end of data and software I decided to take the plunge and make a career change into software development. My objective is to build intuitive and efficient software that helps the user gain insight from large datasets.
+I help companies improve their on-line interactions with costumers. My objective is to build intuitive and efficient software that helps businesses grow.
 
-I took two bootcamps: FinTech at Columbia University and Software Development at Coding Dojo. Together they provided me with over 1,000 hours of hands-on learning. Since finishing the bootcamp at Coding Dojo I have been working on my own software. 
+I took two bootcamps: FinTech at Columbia University and Software Development at Coding Dojo. Together they provided me with over 1,000 hours of hands-on learning.
 
 **Languages:** CSS, HTML, Java, JavaScript, Python, Solidity, SQL. <br>
 **Libraries and Frameworks:** Express, Flask, Node.js, pandas, React, scikit-learn, Socket.io, TensorFlow. <br>
