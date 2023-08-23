@@ -16,7 +16,9 @@ Authorized to work in the U.S. without restriction.
 
 ## My Favorite Projects
 
-> **[EthereumBonds](https://github.com/daniel-lobster/EthereumBonds)** is a decentralized application (dapp) built on React that by deploying a solidity contract allows borrowers to issue a zero-cupon bond in the Ethereum blockchain. Investors buy the bonds and they get paid back principal and interest in equal monthly installments. I made a 19-minute [YouTube video](https://youtu.be/82erXHt1dUE?si=rz0xQ9DXnzDbUf-i) showing the main features of the software. 
++ **[EthereumBonds](https://github.com/daniel-lobster/EthereumBonds)** is a decentralized application (dapp) built on React that by deploying a solidity contract allows borrowers to issue a zero-cupon bond in the Ethereum blockchain. Investors buy the bonds and they get paid back principal and interest in equal monthly installments. I made a 19-minute [YouTube video](https://youtu.be/82erXHt1dUE?si=rz0xQ9DXnzDbUf-i) showing the main features of the software.
+
++ **[Zuckerberg & Phelps](https://github.com/daniel-lobster/api_call_coingecko)** is a website I built for some friends that gives information on blockchain technology and crypto mining. I built the graphic user interface plus added a nice API call feature to show the price of crypto currencies. I made a 4-minute [YouTube video](https://youtu.be/82erXHt1dUE?si=rz0xQ9DXnzDbUf-i) showing how the API call works.
 
 ### [Tourist Prophet](https://github.com/daniel-lobster/tourist_prophet)
 
