@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&width=535&lines=My+developer+name+is+Daniel+Lobster)](https://git.io/typing-svg)
 
-I help companies improve their on-line interactions with costumers. My objective is to build intuitive and efficient software that helps businesses grow.
-
-I took two bootcamps: FinTech at Columbia University and Software Development at Coding Dojo. Together they provided me with over 1,000 hours of hands-on learning.
+I help companies improve their on-line interactions with customers. My objective is to build intuitive and efficient software that helps businesses grow.
 
 **Languages:** CSS, HTML, Java, JavaScript, Python, Solidity, SQL. <br>
 **Libraries and Frameworks:** Express, Flask, Node.js, pandas, React, scikit-learn, Socket.io, TensorFlow. <br>
@@ -18,7 +16,7 @@ Authorized to work in the U.S. without restriction.
 
 + **[EthereumBonds](https://github.com/daniel-lobster/EthereumBonds)** is a decentralized application (dapp) built on React that by deploying a solidity contract allows borrowers to issue a zero-cupon bond in the Ethereum blockchain. Investors buy the bonds and they get paid back principal and interest in equal monthly installments. I made a 19-minute **[video](https://youtu.be/82erXHt1dUE?si=rz0xQ9DXnzDbUf-i)** showing the main features of the software.
 
-+ **[Zuckerberg & Phelps](https://github.com/daniel-lobster/api_call_coingecko)** is a website that gives information on blockchain technology and crypto mining. I built the graphic user interface plus added an API call to show the price of crypto currencies. I made a 4-minute **[video](https://youtu.be/82erXHt1dUE?si=rz0xQ9DXnzDbUf-i)** showing how the API call works plus the site is **[live](http://crypto.miner.s3-website-us-west-1.amazonaws.com/coins)** for you to explore. 
++ **[Zuckerberg & Phelps](https://github.com/daniel-lobster/api_call_coingecko)** is a website that provides information on blockchain technology and crypto mining. I built the graphic user interface plus added an API call to show the price of crypto currencies. I made a 4-minute **[video](https://youtu.be/82erXHt1dUE?si=rz0xQ9DXnzDbUf-i)** showing how the API call works plus the site is **[live](http://crypto.miner.s3-website-us-west-1.amazonaws.com/coins)** for you to explore. 
 
 + **[Tourist Prophet](https://github.com/daniel-lobster/tourist_prophet)** is a Python application that forecasts tourist inflows to a country. The user selects the country, how far in the future they want the forecast and can include an optional dummy variable to isolate the effect of the pandemic. The application will produce four graphs and will save a file called 'forecast.csv' with all the data produced by the simulation. 
 
