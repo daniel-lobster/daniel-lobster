@@ -22,7 +22,7 @@ Authorized to work in the U.S. without restriction.
 
 ### [Tourist Prophet](https://github.com/daniel-lobster/tourist_prophet)
 
-### [Crypto Montecarlo](https://github.com/daniel-lobster/crypto_monte_carlo_simulation)
++ **[Crypto Montecarlo](https://github.com/daniel-lobster/crypto_monte_carlo_simulation)** is a Python application that allows the user to run a Montecarlo simulation of the future performance of a crypto currency. The app gets the data from Yahoo Finance API and allows the user to select the initial investment amount, number of simulations and number of days in the future.  
 
 <br>
 <br>
