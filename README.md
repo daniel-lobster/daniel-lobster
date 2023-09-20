@@ -5,8 +5,8 @@
 I help companies improve their on-line interactions with customers. My objective is to build intuitive and efficient software that helps businesses grow.
 
 **Languages:** CSS, HTML, Java, JavaScript, Python, Solidity, SQL. <br>
-**Libraries and Frameworks:** Express, Flask, Node.js, pandas, React, scikit-learn, Socket.io, TensorFlow. <br>
-**Software:** Bloomberg, Excel, GitHub, Haver, MySQL, Remix, STATA.<br>
+**Libraries and Frameworks:** Express, Flask, JQuery, Node.js, pandas, React, scikit-learn, Socket.io, TensorFlow. <br>
+**Software:** AWS, Bloomberg, Excel, GitHub, MongoDB, SQL Server, Tableau.<br>
 
 If you are aware of interesting opportunities in the Southern California area or if you just want to share resources don’t hesitate to reach out. Thank you!!
 
