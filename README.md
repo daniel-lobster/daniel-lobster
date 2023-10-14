@@ -14,7 +14,7 @@ Authorized to work in the U.S. without restriction.
 
 ## My Favorite Projects
 
-+ **[Montecarlo Simulation](https://github.com/daniel-lobster/stock_montecarlo)** is a React app that allows the user the predict the price of a stock listed in the NYSE or Nasdaq. Visit the **[website]([https://youtu.be/82erXHt1dUE?si=rz0xQ9DXnzDbUf-i](http://montecarlo-simulation-finnhub.s3-website-us-west-1.amazonaws.com/))** to see the app working and watch the **[YouTube](https://www.youtube.com/watch?v=5wiC_8Lq3u8)** video. 
++ **[Montecarlo Simulation](https://github.com/daniel-lobster/stock_montecarlo)** is a React app that allows the user the predict the price of a stock listed in the NYSE or Nasdaq. Visit the **[website](http://montecarlo-simulation-finnhub.s3-website-us-west-1.amazonaws.com/)** to see the app working and watch the 9-minute **[YouTube](https://www.youtube.com/watch?v=5wiC_8Lq3u8)** video. 
 
 + **[EthereumBonds](https://github.com/daniel-lobster/EthereumBonds)** is a decentralized application (dapp) built on React that by deploying a solidity contract allows borrowers to issue a zero-cupon bond in the Ethereum blockchain. Investors buy the bonds and they get paid back principal and interest in equal monthly installments. I made a 19-minute **[video](https://youtu.be/82erXHt1dUE?si=rz0xQ9DXnzDbUf-i)** showing the main features of the software.
 
