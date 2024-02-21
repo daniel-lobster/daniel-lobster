@@ -4,8 +4,8 @@
 
 I help companies improve their on-line interactions with customers. My objective is to build intuitive and efficient software that helps businesses grow.
 
-**Languages:** HTML, JavaScript, Python, SQL. <br>
-**Libraries and Frameworks:** Express, Flask, JQuery, Node.js, pandas, React, scikit-learn, TensorFlow. <br>
+**Languages:** HTML, Java, Python, SQL. <br>
+**Libraries and Frameworks:** Django, Flask, Matplotlib, pandas, scikit-learn, Spring, TensorFlow.<br>
 **Software:** AWS, GitHub, MongoDB, PostgreSQL, Tableau.<br>
 
 If you are aware of interesting opportunities in the Southern California area or if you just want to share resources don’t hesitate to reach out. Thank you!!
