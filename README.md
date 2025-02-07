@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&width=535&lines=My+developer+name+is+Daniel+Lobster)](https://git.io/typing-svg)
 
-I help companies generate value out of data. This includes the design and implementation of business intelligence tools and the automation of functions. I am always learning the latest technologies so I can give my clients the comparative advantage they need. While Python is my main tool, I also know other languages that help me query databases and create dashboards. Part-time I train the next generation of data scientists through the exhaustive Columbia University's Data Analytics Boot Camp. 
+I help companies generate value out of data. This includes the design and implementation of business intelligence tools and the automation of functions. I am always learning the latest technologies so I can give my clients the comparative advantage they need. While Python is my main tool, I also know other languages that help me query databases and create dashboards. 
 
 **Languages:** HTML, JavaScript, Python, SQL. <br>
-**Libraries and Frameworks:** Django, Flask, HuggingFace, Matplotlib, pandas, scikit-learn, TensorFlow.<br>
+**Libraries and Frameworks:** Django, Flask, HuggingFace, Matplotlib, pandas, React, scikit-learn, TensorFlow.<br>
 **Software:** AWS, GitHub, MongoDB, PostgreSQL, Tableau.<br>
 
 If you are aware of interesting opportunities or if you just want to share resources don’t hesitate to reach out. Thank you!!
